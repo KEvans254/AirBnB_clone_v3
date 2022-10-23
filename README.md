@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Nevillionaire - [Github](https://github.com/nevillionaire)  
-Mercy Kanyi - [Github](https://github.com/Mercy-Kanyi)
+Evans Kiprotich - [GitHub](https://github.com/KEvans254)
+Shalom Muraguri - [GitHub](https://github.com/shalomtash)
 ## License
 Public Domain. No copy write protection. 
